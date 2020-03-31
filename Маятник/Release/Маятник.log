@@ -1,0 +1,30 @@
+﻿cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  AssemblyInfo.cpp
+C:\Users\User\source\repos\Pendulum\Маятник\AssemblyInfo.cpp(40,29): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
+C:\Users\User\source\repos\Pendulum\Маятник\AssemblyInfo.cpp(40,29): message : Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  Sample.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(228): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(217,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(217,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(218,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(218,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(219,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(219,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(220,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(220,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(221,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(221,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(222,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(222,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(223,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(223,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(224,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(224,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(225,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Pendulum\Маятник\Form1.h(225,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Маятник.vcxproj -> C:\Users\User\source\repos\Pendulum\Release\Маятник.exe

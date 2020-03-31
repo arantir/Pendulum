@@ -1,0 +1,11 @@
+﻿  Sample.cpp
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(211): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(212): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(213): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(214): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(215): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(216): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(217): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(218): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2012\projects\маятник\маятник\Form1.h(219): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Маятник.vcxproj -> C:\Users\Александр\documents\visual studio 2012\Projects\Маятник\Debug\Маятник.exe

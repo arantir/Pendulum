@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Pendulum\Маятник\Release\Маятник.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\Pendulum\Маятник\Release\Маятник.Form1.resources
+C:\Users\User\source\repos\Pendulum\Маятник\Release\Маятник.vcxproj.GenerateResource.cache
